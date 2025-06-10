@@ -22,7 +22,7 @@ This Pharmacy Dashboard is a full-featured web application designed to help phar
 
 ## 📥 Data Collection
 
-- **Source:** [Tamil Nadu Co-operative Medical Stores Portal](#)  
+- **Source:** [Tamil Nadu Co-operative Medical Stores Portal](https://tncoopws.tn.gov.in/medicaljpc/usermanager/youLogin.jsp)  
 - **Duration:** October 2024 – February 2025  
 - **Method:** Bills were downloaded as PDFs and parsed using Python libraries (`PyPDF2`, `pdfplumber`).
 
@@ -34,9 +34,6 @@ This Pharmacy Dashboard is a full-featured web application designed to help phar
 - Quantity, Expiry, Price, GST, Discount  
 - Total Payment  
 
-> 📄 [Sample Dataset Link](#)
-
----
 
 ## 🧹 Data Preprocessing
 
@@ -81,9 +78,7 @@ The Power BI dashboard brings all analysis and predictions together with:
 - 🩺 Doctor-prescription tracking
 - 🔮 Predictive insights for planning
 
-> 🔗 [View Power BI Dashboard](#)
 
----
 
 ## 🧑‍💻 Code & Tools Used
 
@@ -111,12 +106,6 @@ The Power BI dashboard brings all analysis and predictions together with:
 
 ## ✍️ Blog Post
 
-> 📖 Read the full blog: [Pharmacy Sales and Inventory Analytics Using Power BI](#)
-
----
-
-## 📄 License
-
-This project is licensed under the MIT License – see the [LICENSE](LICENSE) file for details.
+> 📖 Read the full blog: [Pharmacy Sales and Inventory Analytics Using Power BI](https://medium.com/@keerthanakumar1625/tablets-trends-where-healthcare-meets-data-science-e07e24882295)
 
 
