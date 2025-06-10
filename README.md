@@ -16,10 +16,6 @@ A web-based dashboard designed to streamline and manage pharmacy-related data an
 
 ## 🛠️ Tech Stack
 
-- **Frontend:** React.js / HTML / CSS / Bootstrap
-- **Backend:** Node.js / Express / Django (update based on actual stack)
-- **Database:** MongoDB / PostgreSQL / MySQL (update accordingly)
-
-## 📂 Folder Structure
+Python,PowerBI
 
 
